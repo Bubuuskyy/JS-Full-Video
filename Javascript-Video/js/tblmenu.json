@@ -1,0 +1,25 @@
+[
+    {
+
+        "idmenu" : 6,
+        "idkategori" : 33,
+        "menu" : "Es Teh A",
+        "harga" : 5000,
+        "warna" : ["merah", "kuning", "hijau"],
+        "stok" : true,
+        "keterangan" : null
+
+},
+    {
+
+        "idmenu" : 7,
+        "idkategori" : 33,
+        "menu" : "Es Teh B",
+        "harga" : 5000,
+        "warna" : ["merah", "kuning", "hijau"],
+        "stok" : false,
+        "keterangan" : null
+
+}
+
+]
